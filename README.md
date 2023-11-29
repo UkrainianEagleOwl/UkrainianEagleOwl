@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @UkrainianEagleOwl
-- 👀 I’m interested in pet-projects, in cooperate with other software developers and in new knowledges.
-- 🌱 I’m currently learning python and his frameworks.
-- 💞️ I’m looking to collaborate on interesting projects on python.
-- 📫 How to reach me:
-+  Email: dmitriy.fillin@gmail.com 
-+ Telegram: [Here](https://t.me/filin_dmytro "My telegram") Linkedin: [Here](https://www.linkedin.com/in/dmytro-filin-18716b198/ "My Linkedin") 
+👋 Greetings! I'm @UkrainianEagleOwl.
 
-<!---
-UkrainianEagleOwl/UkrainianEagleOwl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 **What catches my eye:** I have a passion for pet-projects, teamwork with fellow software developers, and an unquenchable thirst for new knowledge.
+
+🐍 **Current Learning Curve:** Diving deep into the world of Python and its myriad of frameworks. Yes, there's a snake in my boot, and it's Python!
+
+🤝 **Looking to Collaborate:** Eager to contribute to intriguing Python-based projects. If you're plotting something cool, count me in!
+
+📬 **Reach Out to Me:**
+- 📧 Email: [dmitriy.fillin@gmail.com](mailto:dmitriy.fillin@gmail.com)
+- 📱 Telegram: [Filin_Dmytro](https://t.me/filin_dmytro)
+- 🔗 LinkedIn: [Dmytro Filin](https://www.linkedin.com/in/dmytro-filin-18716b198/)
+
+🌟 **Fun Fact:** This repository isn't just a repository, it's a canvas where my professional journey unfolds. Feel free to peruse and drop a star if you like what you see!
