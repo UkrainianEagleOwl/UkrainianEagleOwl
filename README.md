@@ -1,17 +1,33 @@
+# Hi, I'm Dmytro 👋
 
-👋 Greetings! I'm @UkrainianEagleOwl.
+I'm a software developer with **7.5 years of professional experience**, primarily working with **Delphi (Object Pascal)**.
 
-🔍 **What catches my eye:** Passionate about pet-projects, collaboration with fellow software enthusiasts, and constantly acquiring new knowledge.
+My professional work includes desktop application development and software integration with hardware devices, bringing together application logic and real-world systems.
 
-🐍 **Current Learning Curve:** Exploring the versatile world of Python and its frameworks. Yes, Python is more than just a slithery friend!
+Outside my main work, I enjoy exploring different technologies and building independent projects, from desktop applications and web services to game modifications and automation tools.
 
-🤝 **Looking to Collaborate:** Keen on teaming up for intriguing Python-based projects. Got a cool idea? I'm all ears (and code)!
+### Technologies I work with
 
-🌐 **Check Out My Portfolio:** Dive into my world of projects and skills at [My Portfolio](https://simplebio.co/626b7-9ad3).
+**Professional focus:** Delphi / Object Pascal, desktop software development, hardware–software integration.
 
-📬 **Reach Out to Me:**
-- 📧 Email: [dmitriy.fillin@gmail.com](mailto:dmitriy.fillin@gmail.com)
-- 📱 Telegram: [Filin_Dmytro](https://t.me/filin_dmytro)
-- 🔗 LinkedIn: [Dmytro Filin](https://www.linkedin.com/in/dmytro-filin-18716b198/)
+**Personal projects:** Python, TypeScript, C#, web applications, APIs, and automation.
 
-🌟 **Fun Fact:** This repository is my digital storybook, showcasing my professional journey. Take a look around and feel free to leave a star as your footprint!
+### What I'm building
+
+**Uriel** — A local-first desktop application for organizing and tracking movies, series, anime, manga, books, and other media. Currently in a development pause while preparing its next design iteration.
+
+**Smith Center** — A published mod for Mount & Blade II: Bannerlord, expanding armor commissioning and upgrading systems. Available on [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/13493).
+
+**Who Knows?** — A personal game project, currently on hold.
+
+**RimWorld modding** — An active private game-development project.
+
+### Other work
+
+My repositories also include collaborative course projects, technical experiments, and a public archive of my earlier Python studies.
+
+I prefer keeping these projects available as a record of what I've learned and built, even when they're no longer under development.
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/dmytro-filin-18716b198/) · [Telegram](https://t.me/filin_dmytro) · [Email](mailto:dmitriy.fillin@gmail.com)
